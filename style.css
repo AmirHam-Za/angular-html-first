@@ -36,7 +36,7 @@ img{
 }
 
 /*******************************
-//NAV BAR SECTION    \/
+ >>> NAV BAR SECTION    \/
 ********************************/
 nav{
     padding: 10px 2%;
@@ -124,7 +124,7 @@ nav{
 }
 
 /*******************************
-//HEADER  SECTION    \/
+>>> HEADER  SECTION \/
 ********************************/
 
 #intro{
@@ -160,7 +160,7 @@ nav{
 	transform: skewY(8deg);
 	transform-origin: 100%;
 	top: -70px;
-    z-index: -1111;
+    	z-index: -1111;
 }
 .homepage-container{
     margin-left: 50px;
@@ -245,7 +245,7 @@ article{
 }
 
 /*******************************
-//FOOTER  SECTION    \/
+>>> FOOTER  SECTION \/
 ********************************/
 footer{
     width: 100%;
